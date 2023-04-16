@@ -1,7 +1,7 @@
 # IMDB-Clone
 This is a imdbClone App.
 
-- Live Site URL: [https://dhanu9441.github.io/IMDB_Clone/]
+- Live Site URL: [https://dhanu9441.github.io/IMDB-Clone/]
 
 ## Table of contents
 
